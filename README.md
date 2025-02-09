@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack  
 - **Programming:** Python (Pandas, NumPy, Scikit-Learn), SQL, MATLAB  
 - **Data Analysis & Visualization:** Excel (VBA), Power BI, Tableau  
-- **Finance & Modelling:** R, SAS ,Python
+- **Finance & Modelling:** R, SAS ,Dataiku
 
 ## 📌 Featured Projects  
 🔹 **[Financial Statement Analysis](#)** – In-depth analysis of banking industry giants, JPMorgan & Goldman Sachs  
