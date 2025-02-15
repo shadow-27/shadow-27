@@ -17,11 +17,13 @@
 - **Data Analysis & Visualization:** Excel (VBA), Power BI, Tableau  
 - **Finance & Modelling:** R, SAS ,Dataiku
 
+<!---
 ## 📌 Featured Projects  
-🔹 **[Financial Statement Analysis](#)** – In-depth analysis of banking industry giants, JPMorgan & Goldman Sachs  
+[//]🔹 **[Financial Statement Analysis](#)** – In-depth analysis of banking industry giants, JPMorgan & Goldman Sachs  
 🔹 **[PnL & Treasury Analytics](#)** – Modelling interest rate curves and repricing strategies  
 🔹 **[Risk Modelling](#)** – Implemented credit risk models using Python & SQL  
 🔹 **[Algorithmic Trading](#)** – Developed a trading strategy with backtesting  
+-->
 
 ## 📫 Connect with Me  
 🔗 [LinkedIn](#... @www.linkedin.com/in/sujith-madesh-b480a31b0) • 📧 [Email](# shadowsuji27@gmail.com)  
