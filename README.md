@@ -13,7 +13,7 @@
 - 🏦 **Interest Rate Curves, Repricing, and Treasury Analytics**  
 
 ## 🛠 Tech Stack  
-- **Programming:** Python (Pandas, NumPy, Scikit-Learn), SQL, MATLAB  
+- **Programming:** Python ,C++, SQL, MATLAB  
 - **Data Analysis & Visualization:** Excel (VBA), Power BI, Tableau  
 - **Finance & Modelling:** R, SAS ,Dataiku
 
