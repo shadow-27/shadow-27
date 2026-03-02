@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 🎓 Currently pursuing a Master's in **Quantitative Finance** at the **University of Warsaw**  
 💻 Graduated in **Computer Science (Mini Faculty)** from **Warsaw University of Technology**  
-📊 3+ years of experience as an **Quantitative Analyst** in **Credit Risk, Treasury, and Modelling**  
+📊 4+ years of experience as an **Quantitative Analyst** in **Credit Risk, Treasury, and Modelling**  
 📈 Currently working on a **PnL project in Treasury**, with expertise in **interest rate curves, repricing, and risk modelling**  
 
 ## 🔍 Areas of Interest  
